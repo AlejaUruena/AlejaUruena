@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AlejaUruena">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=986ABC&fontSize=55&height=55&width=474&text=Hey!%20I'm%20Ale" alt="Hey! I&#39;m Ale" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=986ABC&fontSize=35&height=55&width=474&text=Hey!" alt="Hey!" />
   </a>
 </p>
 
