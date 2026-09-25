@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=35&lines=Welcome%20to%20my%20page!;Design,%20Tech,%20and%20more%20%F0%9F%98%89" alt="Typing headlines" />
 </p>
 
-<p align="center"><i>Technical UX/UI Designer</i><br>⭐️ My Portfolio -> <a href="https://github.com/AlejaUruena">Aleja Uruena Design</a></p>
+<p align="center"><i>Technical UX/UI Designer</i><br>⭐️ My Portfolio -> <a href="https://alejauruena.github.io/portfolio/">Aleja Uruena Design</a></p>
 
 
 <p align="center">
